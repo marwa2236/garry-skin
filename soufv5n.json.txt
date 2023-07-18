@@ -42,14 +42,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"garry skin 1","desc":"description1 ser","photo":"https://iili.io/HLNwRDJ.webp"},
+  {"title":"garry skin 2","desc":"description2 ser","photo":"https://iili.io/HLNwkU7.webp"},
+  {"title":"garry skin 3","desc":"description3 ser","photo":"https://iili.io/HLNwtJ1.webp"},
+  {"title":"garry skin 4","desc":"description4 ser","photo":"https://iili.io/HLNN0Lx.webp"},
+  {"title":"garry skin 5","desc":"description5 ser","photo":"https://iili.io/HLNN81p.webp"},
+  {"title":"garry skin 6","desc":"description6 ser","photo":"https://iili.io/HLNOACv.webp"},
+  {"title":"garry skin 7","desc":"description7 ser","photo":"https://iili.io/HLNOPcB.webp"},
+  {"title":"garry skin 8","desc":"description8 ser","photo":"https://iili.io/HLNOmMv.webp"}
    ]
  
 }
